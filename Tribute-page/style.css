@@ -1,0 +1,57 @@
+html{
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Big Shoulders Display', cursive;
+  margin: auto;
+  background: #d3d3d3;
+  margin-top: -45px;
+}
+body{
+  background-color: #fafad2;
+}
+#title{
+  font-family: monospace;
+  font-size: 40px;
+  text-align: center;
+  padding-top:25px;
+  text-align: center;
+
+
+}
+#img{
+  margin-left: 180px;
+  padding: 15px 20px 50px 20px;
+  height: 600px;
+  width: 1000px;
+}
+#img-caption{
+  position: relative;
+  padding: 0px 0px 10px 0px;
+  text-align: center;
+  font-style: italic;
+}
+.intro{
+  font-size: 18px;
+  font-family: oswald;
+  margin-left: 130px;
+  color: #5c500f;
+  margin-right: 130px;
+}
+p{
+  margin-left: 140px;
+  color: #3b3930;
+}
+.quotes{
+  text-align: center;
+  font-style: italic;
+  color: #000000;
+}
+#tribute-link{
+  text-align: center;
+}
+.link{
+  color: #222603;
+}
+.link:hover{
+  color:#db1616;
+}
